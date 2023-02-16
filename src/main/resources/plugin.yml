@@ -1,0 +1,6 @@
+name: XinAnticheat
+version: '1'
+main: dev.zenhao.xin.Main
+authors: [ zenhao ]
+depend: [ ProtocolLib ]
+description: AntiCheat

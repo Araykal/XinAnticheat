@@ -1,0 +1,104 @@
+#MelonCore
+
+#反作弊
+AntiCheat:
+  #AntiFastSending / Timer
+  AntiFastContracting: true
+  #模式1
+  MaxPacket: 23
+  MaxPacketPosLook: 24
+  #模式2
+  FlagLevel: 1
+
+  #PacketFly Patch / Nerf
+  PacketFly: false
+
+  #InventoryMove Strict 背包移动限制
+  InventoryMove: false
+
+  #WebCheck
+  ThreadAsync: false
+
+  #InventoryClickPacketCount
+  ClickPacketCount: 30
+
+  #每秒点击发包
+  AttackMaxPacket: 21
+
+#每秒消除30vl
+ChunkLoadStrict:
+    chunkVL: 30
+
+#光照
+DontCheckBlockId:
+  - 33
+  - 165
+  - 29
+  - 20
+  - 95
+  - 160
+  - 6
+  - 31
+  - 32
+  - 37
+  - 38
+  - 39
+  - 40
+  - 50
+  - 85
+  - 101
+  - 102
+  - 106
+  - 111
+  - 113
+  - 116
+  - 65
+  - 130
+  - 139
+  - 145
+  - 188
+  - 189
+  - 190
+  - 191
+  - 192
+  - 198
+  - 321
+  - 323
+  - 389
+  - 143
+  - 146
+  - 147
+  - 148
+  - 151
+  - 183
+  - 184
+  - 185
+  - 186
+  - 187
+  - 423
+  - 330
+  - 167
+  - 324
+  - 404
+  - 356
+  - 331
+  - 428
+  - 131
+  - 107
+  - 77
+  - 69
+  - 72
+  - 70
+  - 76
+  - 96
+  - 54
+  - 431
+  - 429
+  - 430
+  - 27
+  - 28
+  - 66
+  - 157
+  - 138
+  - 380
+  - 379
