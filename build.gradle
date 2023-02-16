@@ -17,7 +17,7 @@ dependencies {
     compileOnly 'org.bukkit:bukkit:1.15.2-R0.1-SNAPSHOT'
     compileOnly 'org.jetbrains:annotations:24.0.0'
     compileOnly 'com.github.azbh111:craftbukkit-1.12.2:R'
-    compileOnly 'com.github.azbh111:craftbukkit-1.12.2:R'
+    implementation 'com.github.azbh111:ProtocolLib:4.4.0'
 }
 
 def targetJavaVersion = 8
